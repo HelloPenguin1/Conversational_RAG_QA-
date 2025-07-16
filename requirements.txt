@@ -17,5 +17,4 @@ duckdb
 pandas 
 openai
 langchain-experimental
-
-    
+pypdf
